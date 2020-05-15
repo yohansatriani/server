@@ -1,0 +1,2 @@
+# server
+just for fun
